@@ -81,7 +81,7 @@ canvas{
     left: 80%;
     width: 20px;
     height: 6px;
-    background: rgb(216, 134, 216);
+    background: #f29ad7;
     transform:translateX(-50%) skewX(325deg);
     transition: 0.5s;
 }
