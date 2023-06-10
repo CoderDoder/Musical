@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(#9376E0,#E893CF,#F3BCC8,#F3BCC8,#F6FFA6);   
+}
+
+.leb{
+    font-family: 'Bungee', cursive;
+}
+.head{
+        box-shadow: 0px 20px 20px 0px #000000a8;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+
+.note{
+    color: white;
+}
+
+#song{
+    color: rgb(255, 253, 253);
+}
+
+.div_head{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+#img1{
+    left: 0;
+    float: left;
+}
+
+#img2{
+    right: 0;
+    float: right;
+}
+
+canvas{
+    border-radius: 30px;
+    box-shadow:0px 0px 20px 13px white;
+}
